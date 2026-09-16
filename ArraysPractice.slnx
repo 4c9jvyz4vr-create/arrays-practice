@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Final.Task/Final.Task.csproj" />
+  <Project Path="Task1.Statistics/Task1.Statistics.csproj" />
+  <Project Path="Task2.InputSort/Task2.InputSort.csproj" />
+  <Project Path="Task3.Unique/Task3.Unique.csproj" />
+  <Project Path="Task4.Exceptions/Task4.Exceptions.csproj" />
+</Solution>
