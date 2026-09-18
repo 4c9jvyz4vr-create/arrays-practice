@@ -13,7 +13,7 @@ namespace Task2.InputSort
                 Console.Write("Введите количество элементов: ");
                 try
                 {
-                    n = int.Parse(Console.ReadLine() ?? "");
+                    n = int.Parse(Console.ReadLine());
                     if (n > 0)
                         break;
                     Console.WriteLine("Количество элементов должно быть больше 0. Попробуйте снова.");
