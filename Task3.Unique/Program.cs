@@ -108,4 +108,3 @@ namespace Task3.Unique
             Console.WriteLine("Уникальные: " + string.Join(", ", GetUnique(custom)));
         }
     }
-}
